@@ -11,3 +11,4 @@ OCB Team은 김채원, 정규환, 김주하, 문선웅 학생으로 이루어져
 
 고려대학교의 많은 학생들이 우리가 만든 챗봇을 통해 학사 운영 규정을 쉽게 알아볼 수 있도록 웹페이지와 카카오톡으로 챗봇 서버를 구동하는 프로그램을 만들기로 했습니다.
 
+[![챗GPT API를 활용한 챗봇 만들기](photos_for_README/book_screenshot.png)](https://product.kyobobook.co.kr/detail/S000214146018)
