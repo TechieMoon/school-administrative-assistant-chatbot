@@ -5,6 +5,10 @@
 
 ![웹 페이지 화면](photos_for_README/webpage_screenshot.png)
 
+아래 사진은 실제로 서버를 구현하여 카카오톡에서 실행한 결과입니다.
+
+![카카오톡 화면](photos_for_README/kakaotalk_screenshot.png)
+
 저는 고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과 캡스톤디자인2 과목을 수강하는 OCB Team의 일원 문선웅 학생입니다.
 
 OCB Team은 김채원, 정규환, 김주하, 문선웅 학생으로 이루어져 있고,
